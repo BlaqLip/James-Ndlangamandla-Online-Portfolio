@@ -1,2 +1,2 @@
 # James-Ndlangamandla-Online-Portfolio
-A-coder's-Profile
+A developer's-Profile
